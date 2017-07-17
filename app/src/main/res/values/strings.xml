@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BottomNavigationBar</string>
+    <string name="nv_bottom">Home</string>
+</resources>
